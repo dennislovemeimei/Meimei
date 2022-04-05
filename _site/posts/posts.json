@@ -19,7 +19,7 @@
   {
     "path": "posts/2022-04-05-firstchapter/",
     "title": "Second_Chapter",
-    "description": "第一次出行，相爱.",
+    "description": "First Outing to Qian daohu，fall in love.",
     "author": [
       {
         "name": "Jiang Yueyang",
@@ -30,13 +30,13 @@
     "categories": [],
     "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2022-04-06T00:10:30+08:00",
+    "last_modified": "2022-04-06T00:13:14+08:00",
     "input_file": "firstchapter.knit.md"
   },
   {
     "path": "posts/2022-04-06-secondchapter/",
     "title": "First_Chapter",
-    "description": "第一次演唱会，相识.",
+    "description": "First concert, know each other.",
     "author": [
       {
         "name": "Jiang Yueyang",
@@ -47,7 +47,7 @@
     "categories": [],
     "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2022-04-06T00:11:04+08:00",
+    "last_modified": "2022-04-06T00:12:43+08:00",
     "input_file": "secondchapter.knit.md"
   }
 ]

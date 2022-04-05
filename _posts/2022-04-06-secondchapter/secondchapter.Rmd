@@ -1,7 +1,7 @@
 ---
 title: "First_Chapter"
 description: |
-  第一次演唱会，相识.
+  First concert, know each other.
 author:
   - name: Jiang Yueyang
     url: {}
