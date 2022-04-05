@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2022-04-06-secondchapter/",
+    "title": "第一章",
+    "description": "第一次演唱会，相识.",
+    "author": [
+      {
+        "name": "Jiang Yueyang",
+        "url": {}
+      }
+    ],
+    "date": "2022-04-06",
+    "categories": [],
+    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-04-06T00:06:23+08:00",
+    "input_file": "secondchapter.knit.md"
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to Our Story",
     "description": "Welcome to our new blog, Our Love Story. \nTime goes by, but memory lasts forever, so does our love ~~",
@@ -15,5 +32,22 @@
     "preview": {},
     "last_modified": "2022-04-05T22:48:12+08:00",
     "input_file": "welcome.knit.md"
+  },
+  {
+    "path": "posts/2022-04-05-firstchapter/",
+    "title": "第二章",
+    "description": "第一次出行，相爱.",
+    "author": [
+      {
+        "name": "Jiang Yueyang",
+        "url": {}
+      }
+    ],
+    "date": "2019-10-01",
+    "categories": [],
+    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-04-06T00:06:35+08:00",
+    "input_file": "firstchapter.knit.md"
   }
 ]

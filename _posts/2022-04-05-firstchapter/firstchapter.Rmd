@@ -1,0 +1,23 @@
+---
+title: "第二章"
+description: |
+  第一次出行，相爱.
+author:
+  - name: Jiang Yueyang
+    url: {}
+date: 2019-10-01
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+
