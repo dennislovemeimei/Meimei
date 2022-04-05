@@ -2,18 +2,18 @@
   {
     "path": "posts/welcome/",
     "title": "Welcome to Our Story",
-    "description": "Welcome to our new blog, Our Story. We hope you enjoy \nreading what we have to say!",
+    "description": "Welcome to our new blog, Our Love Story. \nTime goes by, but memory lasts forever, so does our love ~~",
     "author": [
       {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
+        "name": "Jiang Yueyang",
+        "url": {}
       }
     ],
     "date": "2022-04-05",
     "categories": [],
     "contents": "\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2022-04-05T21:59:25+08:00",
-    "input_file": {}
+    "last_modified": "2022-04-05T22:48:12+08:00",
+    "input_file": "welcome.knit.md"
   }
 ]
